@@ -33,3 +33,8 @@ Hand.prototype.addCard = function(card) {
   }
 
 myHand.addCard(myCard);
+
+
+function Deck () {
+
+}
