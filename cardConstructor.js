@@ -1,0 +1,9 @@
+
+
+
+
+var myHand = new Hand() {
+
+
+
+}
